@@ -1,0 +1,5 @@
+<svg id="Pause_icon" data-name="Pause icon" xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <path id="Path_2" data-name="Path 2" d="M70,132A62,62,0,1,0,8,70,62,62,0,0,0,70,132Zm0,8A70,70,0,1,0,0,70,70,70,0,0,0,70,140Z" fill="rgba(255,255,255,0.72)" fill-rule="evenodd"/>
+  <line id="Line_1" data-name="Line 1" y2="59.749" transform="translate(51 40.125)" fill="none" stroke="rgba(255,255,255,0.72)" stroke-linecap="round" stroke-width="15"/>
+  <line id="Line_2" data-name="Line 2" y2="59.749" transform="translate(89 40.125)" fill="none" stroke="rgba(255,255,255,0.72)" stroke-linecap="round" stroke-width="15"/>
+</svg>
